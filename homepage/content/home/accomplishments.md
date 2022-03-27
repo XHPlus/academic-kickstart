@@ -23,30 +23,65 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- date_end: ""
+  date_start: "2018-10-25"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: CCF Outstanding Undergraduate Award
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  organization: China Computer Federation
+  organization_url: https://www.ccf.org.cn/en/
+- date_end: ""
+  date_start: "2019-10-25"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: National Scholarship
   url: ""
+  organization: Beihang University
+  organization_url: https://ev.buaa.edu.cn/
+- date_end: ""
+  date_start: "2019-12-25"
+  description: ""
+  title: SenseTime Future Star Talents
+  url: ""
+  organization: SenseTime
+  organization_url: https://www.sensetime.com/en
+- date_end: ""
+  date_start: "2020-07-25"
+  description: ""
+  title: Tencent Rhino-Bird Elite Training Program
+  url: ""
+  organization: Tencent
+  organization_url: https://www.tencent.com/en-us/
+- date_end: ""
+  date_start: "2021-08-25"
+  description: ""
+  title: Winner of Low Power Computer Vision Challenge
+  url: ""
+  organization: LPCV
+  organization_url: https://lpcv.ai/
+# - certificate_url: https://www.coursera.org
+#   date_end: ""
+#   date_start: "2021-01-25"
+#   description: ""
+#   organization: Coursera
+#   organization_url: https://www.coursera.org
+#   title: Neural Networks and Deep Learning
+#   url: ""
+# - certificate_url: https://www.edx.org
+#   date_end: ""
+#   date_start: "2021-01-01"
+#   description: Formulated informed blockchain models, hypotheses, and use cases.
+#   organization: edX
+#   organization_url: https://www.edx.org
+#   title: Blockchain Fundamentals
+#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+# - certificate_url: https://www.datacamp.com
+#   date_end: "2020-12-21"
+#   date_start: "2020-07-01"
+#   description: ""
+#   organization: DataCamp
+#   organization_url: https://www.datacamp.com
+#   title: 'Object-Oriented Programming in R'
+#   url: ""
 
 design:
   columns: '2' 
