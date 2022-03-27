@@ -56,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['robustart']
 publishDate: '2022-03-27T08:22:18.567278Z'
 publication_types:
 - '2'

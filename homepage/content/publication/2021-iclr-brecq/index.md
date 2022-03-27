@@ -51,7 +51,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['mqbench']
 publishDate: '2022-03-27T07:29:01.723129Z'
 publication_types:
 - '1'
