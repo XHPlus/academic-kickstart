@@ -14,7 +14,7 @@ organizations:
   url: https://www.sensetime.com/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning fundamental, efficient AI, and their relevant applications such as autonomous driving and AIoT.
 
 # Interests to show in About widget
 # interests:
