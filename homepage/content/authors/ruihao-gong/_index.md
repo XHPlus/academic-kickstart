@@ -70,6 +70,19 @@ email: ""
 highlight_name: true
 ---
 
-Ruihao Gong is currently a senior researcher at SenseTime. Before this, he studied at Beihang University under the supervision of Prof. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Since 2017, he worked on the build-up of computer vision systems and model quantization as an intern at Sensetime Research, where he enjoyed working with the talented researchers and grew up a lot with the help of [Fengwei Yu](http://forwil.xyz/), [Wei Wu](https://wuwei-ai.org/), [Jing Shao](https://amandajshao.github.io/), and [Junjie Yan](https://yan-junjie.github.io/). During the early time of the internship, he independently took responsibility for the development of intelligent video analysis system Sensevideo. Later, he started the research on model quantization which can speed up the inference and even the training of neural networks on edge devices. Now he is devoted to further promoting the accuracy of extremely low-bit models and the auto-deployment of quantized models.
+Ruihao Gong is currently a senior research manager and team leader for Efficient Model R&D at SenseTime Research Model Toolchain Team under the supervision of [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Fengwei Yu](http://forwil.xyz/). He focuses on the system and algorithms for accelerating the industry model production, model deployment and model efficiency. His research interests include model quantization, model sparsity, hardware-friendly neural networks for various hardwares such as cloud servers and mobile/egde devices, and various applications such as smart city and L2/L4 autonomous driving.
+
+
+News:
+
+ <font size="2">[2022] One paper for pushing the limit of post-training quantization has been accepted by ICLR2022.  
+[2021] Our team wins the championship of [LPCV 2021 FPGA Track](https://lpcv.ai/2021LPCVC/introduction) and we also open source the [solution](https://github.com/ModelTC/LPCV2021_Winner_Solution).  
+[2021] We release a model quantization benchmark [MQBench](http://mqbench.tech/) and open source the [model quantization toolkit](https://github.com/ModelTC/MQBench).  
+[2021] We release a model robustness benchmark [RobustART](http://robust.art/) and open source the [evaluation framework](https://github.com/DIG-Beihang/RobustART).  
+[2021] One paper accepted by CVPR2021 as oral presentation.  
+[2021] Two papers accepted by ICCV2021.  
+[2021] One paper accepted by ICLR2021.
+</font>
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
