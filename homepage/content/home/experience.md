@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.sensetime.com/en'
     company_logo: sensetime
     location: Beijing
-    date_start: '2021-05-18'
+    date_start: '2022-05-25'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,7 +41,7 @@ experience:
     company_logo: sensetime
     location: Beijing
     date_start: '2021-01-18'
-    date_end: ''
+    date_end: '2022-05-24'
     description: |2-
         Responsibilities include:
         
