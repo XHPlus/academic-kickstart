@@ -41,7 +41,7 @@ image:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "CVPR-ECV-Workshop-20220620_2230.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
