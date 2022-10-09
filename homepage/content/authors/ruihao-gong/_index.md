@@ -73,10 +73,11 @@ highlight_name: true
 Ruihao Gong is currently a senior research manager and team leader for Efficient Model R&D at SenseTime Research Model Toolchain Team under the supervision of [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/) and [Fengwei Yu](http://forwil.xyz/). He focuses on the system and algorithms for accelerating the industry model production, model deployment and model efficiency. His research interests include model quantization, model sparsity, hardware-friendly neural networks for various hardwares such as cloud servers and mobile/egde devices, and various applications such as smart city and L2/L4 autonomous driving.
 
 
-News:
-
- <font size="2">[2022.6] Our Neural Network Latency Query and Prediction (NNLQP) system is accepted by ICPP2022. [Code](https://github.com/ModelTC/NNLQP) is open-sourced!  
-[2022.1] One paper for pushing the limit of post-training quantization has been accepted by ICLR2022.  
+News:  
+ <font size="2">[2022.10] We are going to organize the [Workshop of Practical Deep Learning in the Wild](https://practical-dl.github.io/) on AAAI 2023.  
+[2022.09] One paper on Transformer Quantization accepted by NeurIPS2022 and one paper on BNN accepeted by IJCV.  
+[2022.06] Our Neural Network Latency Query and Prediction (NNLQP) system is accepted by ICPP2022. [Code](https://github.com/ModelTC/NNLQP) is open-sourced!  
+[2022.01] One paper for pushing the limit of post-training quantization has been accepted by ICLR2022.  
 [2021] Our team wins the championship of [LPCV 2021 FPGA Track](https://lpcv.ai/2021LPCVC/introduction) and we also open source the [solution](https://github.com/ModelTC/LPCV2021_Winner_Solution).  
 [2021] We release a model quantization benchmark [MQBench](http://mqbench.tech/) and open source the [model quantization toolkit](https://github.com/ModelTC/MQBench).  
 [2021] We release a model robustness benchmark [RobustART](http://robust.art/) and open source the [evaluation framework](https://github.com/DIG-Beihang/RobustART).  
