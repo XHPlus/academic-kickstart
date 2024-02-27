@@ -1,0 +1,14 @@
+@article{2023-nn-rect,
+ abstract = {Natural data typically exhibits a long-tailed distribution, presenting great challenges for recognition tasks. Due to the extreme scarcity of training instances, tail classes often show inferior performance. In this paper, we investigate the problem within the trendy visual-language (VL) framework and find that the performance bottleneck mainly arises from the recognition confusion between tail classes and their highly correlated head classes. Building upon this observation, unlike previous research primarily emphasizing class frequency in addressing long-tailed issues, we take a novel perspective by incorporating a crucial additional factor namely class correlation. Specifically, we model the representation learning procedure for each sample as two parts, i.e., a special part that learns the unique properties of its own class and a common part that learns shared characteristics among classes. By analysis, we discover that the learning process of common representation is easily biased toward head classes. Because of the bias, the network may lean towards the biased common representation as classification criteria, rather than prioritizing the crucial information encapsulated within the specific representation, ultimately leading to recognition confusion. To solve the problem, based on the VL framework, we introduce the rectification contrastive term (ReCT) to rectify the representation bias, according to semantic hints and training status. Extensive experiments on three widely-used long-tailed datasets demonstrate the effectiveness of ReCT. On iNaturalist2018, it achieves an overall accuracy of 75.4%, surpassing the baseline by 3.6 points in a ResNet-50 visual backbone.},
+ author = {Bo Li and Yongqiang Yao and Jingru Tan and Ruihao Gong and Jianwei Lu and Ye Luo},
+ doi = {https://doi.org/10.1016/j.neunet.2024.106134},
+ issn = {0893-6080},
+ journal = {Neural Networks},
+ keywords = {Long-tailed recognition, Vision-language model, Representation bias},
+ pages = {106134},
+ title = {Rectify representation bias in vision-language models for long-tailed recognition},
+ url = {https://www.sciencedirect.com/science/article/pii/S0893608024000509},
+ volume = {172},
+ year = {2024}
+}
+

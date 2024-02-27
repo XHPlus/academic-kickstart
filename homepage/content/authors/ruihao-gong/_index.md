@@ -77,7 +77,10 @@ News:
  <font size="2">[2024.02] Our TFMQ-DM on Diffusion Model Quantization is accepted by CVPR 2024.  
 [2024.01] Our QLLM method for LLM quantization is accepted by ICLR 2024.  
 [2023.12] One paper on lane detection quantization and one paper on post-training sparsity are accepted by AAAI 2024.  
+[2023.11] We released EasyLLM: a training framework for Large Language Model and Vision Language Model.  
+[2023.10] Our team won the championship of LPCV 2023.  
 [2023.10] One paper Outlier Suppression+ for LLM quantization is accepted by EMNLP 2023.  
+[2023.08] We released LightLLM: a serving framework for Large Language Model and Vision Language Model.  
 [2023.07] One paper on model size compression is accepted by ICCV 2023.  
 [2023.06] One FamilySeer paper on deep learning compiler is accepted by ICPP 2023.  
 [2023.04] One SysNoise paper on model robustness is accepted by MLSys 2023.

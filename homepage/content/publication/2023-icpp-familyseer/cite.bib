@@ -1,0 +1,18 @@
+@inproceedings{2023-icpp-familyseer,
+ abstract = {The requirement for deploying deep learning (DL) models efficiently has boosted the research of DL compilers. Especially, the difficulty of generating optimized tensor programs has driven DL compilers to commonly adopt the auto-tuning approaches. Consequently, there are increasing demands to improve the effectiveness of auto-tuning in terms of both search efficiency and search quality. However, existing auto-tuning approaches commonly treat subgraphs individually and overlook the similarities among them, and thus fail to generate better tensor programs under limited time budget. To address the above drawbacks, we propose FamilySeer, an auto-tuning framework that can generate better tensor programs by exploiting the subgraph similarities. Specifically, FamilySeer organizes similar subgraphs into subgraph families, where the cost models are built at family basis with improved accuracy for estimating high potential program candidates. To further leverage the similarity, FamilySeer uses the accurate cost model per family to reduce the number of program candidates for costly hardware measurements without degrading search quality. The experiment results on various DL models demonstrate that FamilySeer can achieve better search efficiency/quality on both CPU and GPU platforms compared to the state-of-the-art auto-tuning framework.},
+ address = {New York, NY, USA},
+ author = {Li, Mingzhen and Yang, Hailong and Zhang, Shanjun and Yu, Fengwei and Gong, Ruihao and Liu, Yi and Luan, Zhongzhi and Qian, Depei},
+ booktitle = {Proceedings of the 52nd International Conference on Parallel Processing},
+ doi = {10.1145/3605573.3605596},
+ isbn = {9798400708435},
+ keywords = {Auto-tuning, Performance Optimization, Subgraph Similarity, Tensor Compiler},
+ location = {<conf-loc>, <city>Salt Lake City</city>, <state>UT</state>, <country>USA</country>, </conf-loc>},
+ numpages = {11},
+ pages = {786–796},
+ publisher = {Association for Computing Machinery},
+ series = {ICPP '23},
+ title = {Exploiting Subgraph Similarities for Efficient Auto-tuning of Tensor Programs},
+ url = {https://doi.org/10.1145/3605573.3605596},
+ year = {2023}
+}
+

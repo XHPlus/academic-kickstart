@@ -1,0 +1,18 @@
+@inproceedings{2022-mm-adv-vit,
+ abstract = {Vision transformers (ViTs) are prevailing among several visual recognition tasks, therefore drawing intensive interest in generating adversarial examples against them. Different from CNNs, ViTs enjoy unique architectures, e.g., self-attention and image-embedding, which are commonly-shared features among various types of transformer-based models. However, existing adversarial methods suffer from weak transferable attacking ability due to the overlook of these architectural features. To address the problem, we propose an Architecture-oriented Transferable Attacking (ATA) framework to generate transferable adversarial examples by activating the uncertain attention and perturbing the sensitive embedding.Specifically, we first locate the patch-wise attentional regions that mostly affect model perception, therefore intensively activating the uncertainty of the attention mechanism and confusing the model decisions in turn.Furthermore, we search the pixel-wise attacking positions that are more likely to derange the embedded tokens using sensitive embedding perturbation, which could serve as a strong transferable attacking pattern.By jointly confusing the unique yet widely-used architectural features among transformer-based models, we can activate strong attacking transferability among diverse ViTs. Extensive experiments on large-scale dataset ImageNet using various popular transformers demonstrate that our ATA outperforms other baselines by large margins (at least +15% Attack Success Rate). Our code is available at https://github.com/nlsde-safety-team/ATA},
+ address = {New York, NY, USA},
+ author = {Wang, Yuxuan and Wang, Jiakai and Yin, Zixin and Gong, Ruihao and Wang, Jingyi and Liu, Aishan and Liu, Xianglong},
+ booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+ doi = {10.1145/3503161.3547989},
+ isbn = {9781450392037},
+ keywords = {vision transformer, transferability, adversarial attacks},
+ location = {<conf-loc>, <city>Lisboa</city>, <country>Portugal</country>, </conf-loc>},
+ numpages = {10},
+ pages = {5181–5190},
+ publisher = {Association for Computing Machinery},
+ series = {MM '22},
+ title = {Generating Transferable Adversarial Examples against Vision Transformers},
+ url = {https://doi.org/10.1145/3503161.3547989},
+ year = {2022}
+}
+

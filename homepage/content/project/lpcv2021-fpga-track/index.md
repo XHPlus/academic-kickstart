@@ -1,5 +1,5 @@
 ---
-title: LPCV2021 Winner Solution of FPGA Track
+title: LPCV 2021 Winner Solution of FPGA Track
 summary: The implementaion of winner solution for LPCV 2021 FPGA track
 tags:
 - Deep Learning
