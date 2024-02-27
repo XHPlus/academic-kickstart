@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate Research Director
+    company: SenseTime
+    company_url: 'https://www.sensetime.com/en'
+    company_logo: sensetime
+    location: Beijing
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * Model deployment and compression for deep learning algorithms on various hardware
+        * Building the system and infrastructure for large model training and serving
+        * Building the fundamental function call ability of LLMs
   - title: Senior Research Manager
     company: SenseTime
     company_url: 'https://www.sensetime.com/en'
@@ -33,7 +46,7 @@ experience:
         Responsibilities include:
         
         * Model deployment and compression for deep learning algorithms on various hardware
-        * Building the Infrasture to scale up the deep learning model production efficiency
+        * Building the infrastructure to scale up the deep learning model production efficiency
         * Hardware friendly neural networks
   - title: Senior Researcher
     company: SenseTime

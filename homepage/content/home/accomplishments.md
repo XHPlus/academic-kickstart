@@ -58,6 +58,20 @@ item:
   url: ""
   organization: LPCV
   organization_url: https://lpcv.ai/
+- date_end: ""
+  date_start: "2023-03-25"
+  description: ""
+  title: 2023 IEEE UAV Chase Challenge Award
+  url: ""
+  organization: IEEE Computer Society
+  organization_url: https://ri4rover.org/
+- date_end: ""
+  date_start: "2023-08-25"
+  description: ""
+  title: Winner of Low Power Computer Vision Challenge
+  url: ""
+  organization: LPCV
+  organization_url: https://lpcv.ai/
 # - certificate_url: https://www.coursera.org
 #   date_end: ""
 #   date_start: "2021-01-25"
