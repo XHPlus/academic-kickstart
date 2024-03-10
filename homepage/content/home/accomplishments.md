@@ -72,6 +72,13 @@ item:
   url: ""
   organization: LPCV
   organization_url: https://lpcv.ai/
+- date_end: ""
+  date_start: "2024-03-01"
+  description: ""
+  title: SenseTime Black Sheep Award (five people per Year)
+  url: ""
+  organization: SenseTime
+  organization_url: https://www.sensetime.com/en
 # - certificate_url: https://www.coursera.org
 #   date_end: ""
 #   date_start: "2021-01-25"
